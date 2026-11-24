@@ -23,7 +23,7 @@
     "test": "mocha test.js"
   },
   "dependencies": {
-    "requirejs": "2.1.17",
+    "requirejs": "2.3.7",
     "gulp-util": "^2.2.14"
   },
   "engines": {
